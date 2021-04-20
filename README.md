@@ -1,13 +1,13 @@
-# Rental searching
+# Rental bot
 
 ## Description   
-Bot looks through https://www.bezrealitky.cz/ and filtering all apartments meeting desired conditions.   
-After that, bot download each adress, price and url of these apartments.   
-Next Bot opens Google Form and fill each aparment information and send.   
+* looks through https://www.bezrealitky.cz/ and filters all apartments meeting desired conditions   
+* downloads each adress, price and url of these apartments   
+* opens Google Form for each apartment and fill his information   
 
 ## What's next?   
-So now I can convert all responses to one Google Sheet using one button provided by Google Forms.   
-And after that there're useful addons like SheetGo and Remove Duplicates, which helps me find out if there're any new offers.   
+* I can convert all responses to one Google Sheet using Google Forms feature.   
+* There're useful addons like SheetGo and Remove Duplicates, which helps me find out if there're any new offers.   
 
 ## Technologies   
 * Python
