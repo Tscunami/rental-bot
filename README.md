@@ -1,6 +1,7 @@
 # Rental bot
 
 ## Description   
+Bot    
 * looks through https://www.bezrealitky.cz/ and filters all apartments meeting desired conditions   
 * downloads each adress, price and url of these apartments   
 * opens Google Form for each apartment and fill his information   
